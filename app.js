@@ -1,10 +1,1 @@
-<html>
-    <head>
-        <title>
-            My app
-        </title>    
-    </head>
-    <body>
-        This is my app!
-    </body>
-</html>
+console.log('Hello');
